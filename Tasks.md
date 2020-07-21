@@ -54,5 +54,19 @@ Repeat last part with excluded maximall voxels, change maximall activeness thres
 
 In the second paper "A Common, High-Dimensional Model of the Representational Space in Human Ventral Temporal Cortex, J.Haxby et. al" used a new method "hyperalignment" to present a common model not in one subject, but between subject; so then they used PCs to show power of this method in data seperation and reported the classification accuracy data.
 
-### a. Anatomical aligned data classificatio 
+### a. Anatomical aligned data classification
 
+Based on library documentation, classifiy between subject data when alignment is anatomical, and save reportes.
+Your classifier is optional.
+
+### b. Hyperaligned data classification
+
+Do previous part, when alignment is hyperaligned; use first 4 subjects as training data and last 2 subjects as test validators.
+
+### c. Pricipal component analysis
+
+Using an arbitrary dimensionality reduction method, get PCs from these hyperaligned data and find out how many PCs are sufficient for 90% of full PCs quality.
+
+
+
+# End
