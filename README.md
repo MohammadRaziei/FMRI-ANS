@@ -1,8 +1,12 @@
 # FMRI-ANS
 
+### Tasks :
 
+See our [tasks](Tasks.md).
 
-See our [questions](Questions.md).
+### Google Colab:
+
+you can run [`PYMVPA.ipynb`](PYMVPA.ipynb) in [google colab](https://colab.research.google.com/drive/1uSPXR5g7Gx_MqOkMZ_MBA0ZPORDfAs48?usp=sharing)!
 
 
 
